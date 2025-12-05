@@ -70,3 +70,5 @@ Esta função compara as duas cartas abertas:
     <a href="https://www.linkedin.com/in/jhonata-anderson/">LinkedIn</a>
 &nbsp;|&nbsp;
 </p>
+<br/><br/>
+<p>Feito com 💙 como parte da Trilha de CSS da Digital Innovation One (DIO).</p>
